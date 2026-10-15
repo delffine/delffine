@@ -4,7 +4,7 @@
 
 В 2024 году я успешно закончил курсы "Аналитик данных" от Яндекс.Практикума. Мои учебные и ПЭТ проекты выложены в соответствующих репозиториях [practicum.yandex](https://github.com/delffine/practicum.yandex) и [Pet-projects](https://github.com/delffine/Pet-projects) .
 
-Коммерческий опыт работы с мая 2025 года - Система аналитики для продавцов Wildberries и Ozon. ETL-скрипты на python, база данных на PostrgesSQL и дашборды на Datalens. Подробнее про этот проект можно почитать в репозитории [wboz_api_sql_datalens](https://github.com/delffine/wboz_api_sql_datalens).
+Коммерческий опыт работы с мая 2025 года. С нуля создал cистему аналитики для продавцов Wildberries и Ozon WBOZYA-dash - это ETL-скрипты на python, база данных на PostrgesSQL и дашборды на Datalens. Подробнее про этот проект можно почитать в репозитории [wboz_api_sql_datalens](https://github.com/delffine/wboz_api_sql_datalens).
 
 Новая веха в саморазвитии - вайбкодинг. Учебные и небольшие проекты буду выкладывать в репозитории Developed-with-AI-assistance.
 
